@@ -15,3 +15,7 @@ I'm student in developper school
 
 ![github-readme-streak-stats herokuapp](https://github.com/kohniko/kohniko/assets/145538085/53acf13d-b902-4e86-8140-44f0f9300e97)
 ![api](https://github.com/kohniko/kohniko/assets/145538085/e915cb09-1914-4dca-bf5c-55ae126a3d3d)
+
+# 🤝🏻 Contact Me
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<your discord id>)
