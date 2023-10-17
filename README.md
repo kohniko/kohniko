@@ -1,4 +1,4 @@
-### Hi there 👋
+![github-readme-stats vercel](https://github.com/kohniko/kohniko/assets/145538085/83d60aed-04f9-4ad9-af33-f61f48cc11de)### Hi there 👋
 
 ## 🚀 About Me
 I'm student in developper school
@@ -12,5 +12,6 @@ I'm student in developper school
 ![image](https://github.com/kohniko/kohniko/assets/145538085/ec8053b8-b480-48d0-98c4-8634b4708c86)
 
 # ⚙️ GitHub Analytics
+![Uploading github-readme-stats.vercel.svg…]()
 
 
