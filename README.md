@@ -12,6 +12,5 @@ I'm student in developper school
 ![image](https://github.com/kohniko/kohniko/assets/145538085/ec8053b8-b480-48d0-98c4-8634b4708c86)
 
 # ⚙️ GitHub Analytics
-![Uploading github-readme-stats.vercel.svg…]()
 
 
