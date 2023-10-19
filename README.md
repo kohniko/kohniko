@@ -18,4 +18,4 @@ I'm student in developper school
 
 # 🤝🏻 Contact Me
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<your 220115200>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<220115200>)
