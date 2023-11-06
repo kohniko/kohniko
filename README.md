@@ -13,9 +13,8 @@ I'm student in developper school
 
 # ⚙️ GitHub Analytics
 
-![github-readme-streak-stats herokuapp](https://github.com/kohniko/kohniko/assets/145538085/c599d1ca-debe-43c5-8418-bd93f65623bc)
-![api](https://github.com/kohniko/kohniko/assets/145538085/3cb84ea1-11d7-4159-ae35-e6eb1412cf83)
-
+![github-readme-streak-stats herokuapp](https://github.com/kohniko/kohniko/assets/145538085/06837cb9-4648-471b-bbcf-5fd49082ec45)
+![api](https://github.com/kohniko/kohniko/assets/145538085/c3b97395-c614-4e37-b004-32cb90da0526)
 
 # 🤝🏻 Contact Me
 
